@@ -65,7 +65,9 @@ class Homepage extends StatelessWidget {
                       child:Text('4th Tab '),),),
            ],
           ),
+          
         ),
+        Container(child: Text('Google sign IN',style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold),),),
     ],
     ),
     ),
